@@ -5,9 +5,28 @@
   <img src="https://via.placeholder.com/150" alt="Bot Logo" width="150">
 </p>
 
-<p>
+<p align="right">
 	<strong>llllllllllllllllll</strong>
 </p>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- 왼쪽: 텍스트 영역 -->
+    <td style="border: none; vertical-align: middle;">
+      <h1># SeeMing ㅣ 시밍</h1>
+      <strong>With 144D.reaming (Reaming ㅣ 리밍)</strong>
+    </td>
+    <!-- 오른쪽: 이미지 영역 (오른쪽 정렬) -->
+    <td align="right" style="border: none; vertical-align: middle;">
+      <img src="https://via.placeholder.com/150" alt="Bot Logo" width="150">
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+	<strong>llllllllllllllllll</strong>
+</p>
+
 
 ## 라이선스
 
