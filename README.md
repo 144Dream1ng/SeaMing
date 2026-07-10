@@ -1,4 +1,4 @@
-# SeeMing
+# SeeMingㅣ시밍 (w/ 144D.reaming)
 
 ## 라이선스
 
