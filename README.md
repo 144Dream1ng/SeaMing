@@ -1,6 +1,6 @@
 # SeeMing
 
-# 라이선스
+## 라이선스
 
 ![License](https://img.shields.io/badge/License-Source--Available-red?style=flat-square)
 
