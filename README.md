@@ -12,6 +12,14 @@
 	<strong>설명설명설명설명</strong>
 </p>
 
+## 기술 스택
+
+- **Language**: Python
+- **Discord Framework**: nextcord
+- **Environment**: python-dotenv
+- **Logging / Console UI**: rich
+- **System Utility**: psutil
+
 
 
 
